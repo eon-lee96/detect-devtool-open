@@ -1,0 +1,14 @@
+{
+  "name": "detect-devtool-open",
+  "version": "1.0.0",
+  "description": "Find out whether Chrome console is open",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "author": "Eon Lee <3wellh@gmail.com> (https://github.com/eon-lee96)",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
+}
