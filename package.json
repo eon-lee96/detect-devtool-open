@@ -7,6 +7,15 @@
     "build": "npx tsc"
   },
   "author": "Eon Lee <3wellh@gmail.com> (https://github.com/eon-lee96)",
+  "types": "src/typings.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eon-lee96/detect-devtool-open.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eon-lee96/detect-devtool-open/issues"
+  },
+  "homepage": "https://github.com/eon-lee96/detect-devtool-open#readme",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^3.5.1"
