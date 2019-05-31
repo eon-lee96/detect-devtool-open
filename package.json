@@ -1,5 +1,5 @@
 {
-  "name": "detect-devtool-open",
+  "name": "@eonlee/detect-devtool-open",
   "version": "1.0.0",
   "description": "Find out whether Chrome console is open",
   "main": "dist/index.js",
